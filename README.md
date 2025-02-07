@@ -1,4 +1,2 @@
-# The-Second-Game
-教程
-跟做横版ARPG游戏
-编写的脚本汇总
+# RpgUdemyCourse
+The Ultimate Guide to Creating an RPG Game in Unity 教程学习项目
